@@ -7,8 +7,9 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 
 ## DATA 100 - Wicked Problems Assingments
-[Salesman_Assingment](JPG_Finished_Homes.JPG)
-[Country_Borders_Assingment](
+[Salesman Assingment](JPG_Finished_Homes.JPG)
+
+[Country Borders Assingment](kazakhstan.png)
 ## Informal Responses:
 
 
