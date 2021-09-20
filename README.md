@@ -12,6 +12,8 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 [Country Borders Assingment](kazakhstan.png)
 ## Informal Responses:
+[Joshua Blumenstock Article Response](Joshua_Blumenstock_Article_Response.md)
+
 [Hans Rosling TED Talk Response](Hans_Rosling_TEDTalk_Response.md)
 
 ## Formal Responses:
