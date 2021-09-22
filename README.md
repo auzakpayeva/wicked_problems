@@ -14,8 +14,8 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 ## Informal Responses:
 [Joshua Blumenstock Article Response](Joshua_Blumenstock_Article_Response.md)
 
-[Hans Rosling TED Talk Response](Hans_Rosling_TEDTalk_Response.md)
+[Hans Rosling TEDTalk Response](Hans_Rosling_TEDTalk_Response.md)
 
-[Owen_Barder_TedTalk_Response.md](Owen_Barder_TEDTalk_Response.md)
+[Owen Barder TEDTalk Response](Owen_Barder_TedTalk_Response.md)
 
 ## Formal Responses:
