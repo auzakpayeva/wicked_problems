@@ -18,4 +18,6 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 [Owen Barder TEDTalk Response](Owen_Barder_TedTalk_Response.md)
 
+[Informal Response #1](Informal_Response_1.md)
+
 ## Formal Responses:
