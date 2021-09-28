@@ -20,4 +20,6 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 [Informal Response #1](Informal_Response_1.md)
 
+[Essay About Me and Data Science](essay_about_me_data_science.md)
+
 ## Formal Responses:
