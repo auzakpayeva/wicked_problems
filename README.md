@@ -22,4 +22,6 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 [Essay About Me and Data Science](essay_about_me_data_science.md)
 
+[Gap Minder Data Response](gap_minder_data_response.md) 
+
 ## Formal Responses:
