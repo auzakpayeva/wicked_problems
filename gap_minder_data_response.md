@@ -1,4 +1,4 @@
-### Worldwide Corruption Perception Index vs. Happiness score (2011-2016)
+### Worldwide Corruption Perception Index vs. Happiness Score (2011-2016)
 
   The x-axis displays the corruption perception index, which is a score of perceptions of corruption (higher values signify less corruption). The y-axis represents the happiness score, measured by the Cantril life ladder method. The plotted data shows an evident positive relationship between happiness score and the corruption perception index, where the higher the corruption perception index is, the happier people of that country feel.  Almost all data points follow the upward trending curve, with minimal outliers.  
 
