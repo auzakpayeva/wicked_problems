@@ -25,4 +25,4 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 [Gap Minder Data Response](gap_minder_data_response.md) 
 
 ## Formal Responses:
-[Annotated Bibliography](Annotated Bibliography_Alina Uzakpayeva)
+[Annotated Bibliography](Annotated Bibliography_Alina Uzakpayeva.docx)
