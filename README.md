@@ -26,5 +26,7 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 [Our World in Data Response](Our_world_in_data_response.md)
 
+[China’s Belt and Road Infrastructure Plan Article Response](China_BRI_Response.md)
+
 ## Formal Responses:
 [Annotated Bibliography](https://github.com/auzakpayeva/wicked_problems/blob/3bd7244e99b1f35cd67674665df139c5d79cf9d4/Annotated%20Bibliography_Alina%20Uzakpayeva.docx)
