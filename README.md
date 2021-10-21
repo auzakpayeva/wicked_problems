@@ -18,15 +18,17 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 [Owen Barder TEDTalk Response](Owen_Barder_TedTalk_Response.md)
 
-[Informal Response #1](Informal_Response_1.md)
+[Gettysburg Address & Human Development Response](Informal_Response_1.md)
 
-[Essay About Me and Data Science](essay_about_me_data_science.md)
+[Personal Statement](essay_about_me_data_science.md)
 
-[Gap Minder Data Response](gap_minder_data_response.md) 
+[GapMinder Data Response](gap_minder_data_response.md) 
 
 [Our World in Data Response](Our_world_in_data_response.md)
 
 [China’s Belt and Road Infrastructure Plan Article Response](China_BRI_Response.md)
+
+[Data on Abundance Response](data_on_abundance_response.md)
 
 ## Formal Responses:
 [Annotated Bibliography](https://github.com/auzakpayeva/wicked_problems/blob/3bd7244e99b1f35cd67674665df139c5d79cf9d4/Annotated%20Bibliography_Alina%20Uzakpayeva.docx)
