@@ -1,4 +1,4 @@
-## Facial recognition Technology 
+## Facial Recognition Technology 
 
 Facial recognition technology has become a significant part of people’s lives; however, the ethics behind the technology are questionable. The technology does in fact make people’s lives easier and more convenient. One example is FaceID and how it eliminates the need of inputting your password each time you log in or make a payment. However, if a face can be used to unlock a device, it’s scary to think what else the technology is capable of. It’s unclear as to how exactly the government or private companies use facial-data, and I think it’s something that must be clearly explained and defined before implementation.
 
