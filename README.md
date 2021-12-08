@@ -48,5 +48,4 @@ Hello everybody. A little about me: I'm Alina. I was born in Kazakhstan and spea
 
 [Methodological Investigation](https://github.com/auzakpayeva/wicked_problems/blob/7d74776e317b9b94448b0ead2ba895a18104e60a/Methodological%20Investigation_Alina%20Uzakpayeva.docx)
 
-[Research Presentation]
-(https://github.com/auzakpayeva/wicked_problems/blob/a6fd692ec8c596a36fec707e5e36e3d404000acb/Rabies%20in%20Kazakhstan%20-%20Alina%20Uzakpayeva.pptx)
+[Research Presentation](https://github.com/auzakpayeva/wicked_problems/blob/a6fd692ec8c596a36fec707e5e36e3d404000acb/Rabies%20in%20Kazakhstan%20-%20Alina%20Uzakpayeva.pptx)
